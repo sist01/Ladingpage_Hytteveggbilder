@@ -1,15 +1,18 @@
 
 
   function downloadApp() {
-    // Handle download logic here
+    // last ned her knapp trykk på
+
     console.log('Downloading app...');
   
-    // Show alert message
+    // vis aler melding
    
     function myFunction() {
-      alert("Hello! I am an alert box!");
+      alert("Hello!");
     }
     
   }
+
+  console.log('myFunction');
 
   // https://www.w3schools.com/jsref/met_win_alert.asp
