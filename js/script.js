@@ -1,7 +1,8 @@
 
 
+  
   function downloadApp() {
-    // last ned her knapp trykk på
+    // last ned her trykk på knappen
 
     console.log('Downloading app...');
   
@@ -13,6 +14,8 @@
     
   }
 
-  console.log('myFunction');
+  console.log('myFunction()');
+
+
 
   // https://www.w3schools.com/jsref/met_win_alert.asp
