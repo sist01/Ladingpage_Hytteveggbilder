@@ -60,9 +60,9 @@ body {
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(246, 24, 24); 
+    background:#808080 ; 
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #555; }
+    background: #BF9C5E; }
