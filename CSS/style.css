@@ -43,3 +43,7 @@ body {
     object-fit: contain;
       
   }
+
+  text {
+    color: #2D2929;
+  }
